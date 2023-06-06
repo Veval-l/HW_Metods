@@ -5,6 +5,7 @@ public class Main {
         task2();
         task3();
 
+
     }
     static public void task1() {
         /**
